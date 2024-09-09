@@ -12,7 +12,6 @@ dependencies:
   - r-lubridate=1.8.0
   - r-stringr=1.4.0
   - r-shinythemes=1.2.0
-  - rstudio=1.4.1717
   - r-irkernel
   - pip:
     - jupyterlab
