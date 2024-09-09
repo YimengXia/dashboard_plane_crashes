@@ -1,0 +1,18 @@
+name: plane_crashes
+channels:
+  - r
+  - conda-forge
+dependencies:
+  - r-base=4.1.2
+  - r-shiny=1.7.1
+  - r-shinydashboard=0.7.1
+  - r-ggplot2=3.3.5
+  - r-dt=0.18
+  - r-dplyr=1.0.7
+  - r-lubridate=1.8.0
+  - r-stringr=1.4.0
+  - r-shinythemes=1.2.0
+  - rstudio=1.4.1717
+  - r-irkernel
+  - pip:
+    - jupyterlab
